@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8"
+ <title>IFSP</title>
+</head>
+<body>
+
+
+ <h1>avaliaçao continua 01 (PWE)</H1>
+ <h2> redes de computadores</h2>
+
+</body>
+</html>
